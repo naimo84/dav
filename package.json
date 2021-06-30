@@ -1,7 +1,11 @@
 {
-  "name": "dav",
-  "version": "1.8.0",
+  "name": "@naimo84/dav",
+  "version": "1.9.0",
+  "private":false,
   "author": "Gareth Aye [:gaye] <gaye@mozilla.com>",
+  "contributors": [
+    "naimo84"
+  ],
   "description": "WebDAV, CalDAV, and CardDAV client for nodejs and the browser",
   "license": "MPL-2.0",
   "main": "./dav.js",
